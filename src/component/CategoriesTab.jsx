@@ -12,7 +12,7 @@ const CategoriesTab = () => {
                 className="flex justify-between items-center gap-8 text-md font-medium border py-3 px-8 rounded-full shadow-md shadow-yellow-900 mt-8"
                 key={index}
               >
-                {/* <div className='w-2 h-2 border border-red-500 rounded-full'></div> */}
+                
                 {category}
               </li>
             ))}
